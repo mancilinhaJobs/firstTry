@@ -1,0 +1,8 @@
+#esse é um código bonito em python
+
+import numpy as np
+
+a=np.array(2,3,5)
+b=np.array(1,1,1)
+p = np.dot(a,b)
+print(p)
